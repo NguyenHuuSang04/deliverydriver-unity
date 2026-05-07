@@ -1,4 +1,3 @@
-# deliverydriver-unity
 # Delivery Driver (2D Top-down Simulation)
 
 ## Project Overview
